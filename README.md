@@ -20,7 +20,7 @@ A simple user management application built with React and Chakra UI. The app all
 
 2. Navigate to the project directory:
     
-    cd user-crud-app
+    cd CRUD
 
 3. Install the dependencies:
 
@@ -38,7 +38,7 @@ A simple user management application built with React and Chakra UI. The app all
 
 ### Project Structure
 
-user-crud-app/
+CRUD/
 ├── public/
 │   └── index.html
 └── src/
@@ -50,9 +50,9 @@ user-crud-app/
 
 ### User Management Application Screenshot
 
-<img src="./user-crud-app/public/s1.png" alt="">
+<img src="./public/s1.png" alt="">
 
-<img src="./user-crud-app/public/s2.png" alt="">
+<img src="./public/s2.png" alt="">
 
 ### Future Improvements
 
